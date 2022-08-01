@@ -10,7 +10,7 @@ I'm a junior data analyst working in the marketing analyst team at Cyclistic, a 
 The main question I am asked to answer is: How do annual members and casual riders use Cyclistic bikes differently? To answer this question, I will use Cyclistic's historical ride data from the last 12 months to analyze and identify trends. Based on my newfound insights, I am to make recommendations to the company on how to convert casual users into members.
 
 # Process
-For data cleaning and analysis, I used RStudio, an integrated development environment for R. The exact procedure can be viewed [here](https://github.com/dfirat/google-data-analytics-capstone/blob/main/Google-Data-Analytics-Capstone.md).
+For data cleaning and analysis, I used RStudio, an integrated development environment for R. The exact procedure can be viewed [here](https://github.com/dfirat/google-data-analytics/blob/main/Google-Data-Analytics-Capstone.md).
 I used Tableau to visualize the results, which you can view [here](https://public.tableau.com/app/profile/dfirat/viz/GoogleDataAnalyticsCapstoneProjectCyclistic_16586019303490/RidesDash) and [here](https://public.tableau.com/app/profile/dfirat/viz/GoogleDataAnalyticsCapstoneProjectCyclisticII/LengthDash).
 
 # Results
