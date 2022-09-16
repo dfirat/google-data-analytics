@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone: Cyclistic Analysis
+# Google Data Analytics Professional Certificate Capstone
 By Deniz Firat  
 July, 2022
 
